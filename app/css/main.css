@@ -42,7 +42,7 @@ header {
     text-align: center;
     color: #e6e6e6;
     background-attachment: scroll;
-    background-image: url(../images/pdx_carpet.jpg);
+    background-image: url(../images/pdx_carpet.jpg);   
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -143,6 +143,7 @@ header .intro-text .intro-heading {
   margin: 50px 0;
   border: none;
   height: 2px;
+  line-height: 1;
   background-color: #636669;
 }
 
@@ -466,4 +467,12 @@ li a:hover {
         padding: 0 100px 20px 20px;
     }
 }
+/*
+@media(min-width:735px) {
+    #phone {
+        margin: auto;
+    }
 
+    #email {
+        margin: auto;
+    }*/

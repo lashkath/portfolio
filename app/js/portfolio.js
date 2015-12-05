@@ -17,7 +17,3 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
-
-// $(document).on('scroll', function (e) {
-//     $('.navbar').css('opacity', ($(document).scrollTop() / 500));
-// })
