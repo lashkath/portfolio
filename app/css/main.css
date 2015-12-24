@@ -40,9 +40,9 @@ h1 {
 ------------------------- */
 header {
     text-align: center;
-    color: #e6e6e6;
+    color: black;
     background-attachment: scroll;
-    background-image: url(../images/pdx_carpet.jpg);   
+    background-image: url(../images/pdx_railsystem.jpg);   
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -52,7 +52,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 50px;
+    padding-top: 90px;
     padding-bottom: 50px;
 }
 
